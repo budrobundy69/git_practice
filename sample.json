@@ -1,4 +1,5 @@
 {
     "bug_fixed":"critical",
-    "feature": "cool new feature"
+    "feature": "cool feature",
+    "version": "1.0.0"
 }
