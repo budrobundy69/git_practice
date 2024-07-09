@@ -4,3 +4,4 @@ Added a cool feature
 Hey, we fixed the bug!!!
 test
 Added a very important change
+Added a cool feature
